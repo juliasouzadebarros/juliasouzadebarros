@@ -29,6 +29,14 @@ Banco de Dados
 
 Engenharia de Software
 
+🚀 Projetos:
+
+Rascunhos de Site e Aplicativo.
+Criação de rascunhos visuais de um site e de um aplicativo com apoio de Inteligência Artificial, utilizados como referência para visualizar e organizar as ideias antes da etapa de programação, sendo de grande ajuda para o processo criativo.
+
+Área: UX Design e desenvolvimento de interfaces
+Ferramenta: Inteligência Artificial
+
 💼 Experiências:
 
 Atualmente, estou em processo de formação acadêmica e desenvolvimento das minhas habilidades na área de tecnologia.
