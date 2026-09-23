@@ -48,7 +48,8 @@ Busco oportunidades para adquirir experiência prática, aplicar os conhecimento
 🚀 Objetivos profissionais:
 
 Meu objetivo é continuar desenvolvendo minhas habilidades em tecnologia sempre, adquirir experiência por meio de projetos e, futuramente, atuar profissionalmente na área de tecnologia, especialmente em áreas relacionadas a desenvolvimento, UX Design e criação de soluções digitais.
+📫 Informações de Contato
 
-🔗 LinkedIn:
+💼 LinkedIn: www.linkedin.com/in/júlia-barros-a7b26b298
 
-www.linkedin.com/in/júlia-barros-a7b26b298
+💻 GitHub: https://github.com/juliasouzadebarros
