@@ -1,30 +1,39 @@
 Olá!
 
-Sou estudante de Ciência da Computação, atualmente no segundo semestre da Universidade Cruzeiro do Sul.
+Olá! 
+Meu nome é Júlia, tenho 21 anos e sou estudante de Ciência da Computação, atualmente no segundo semestre da Universidade Cruzeiro do Sul.
+Desde criança tenho interesse em tecnologia e estou desenvolvendo meus conhecimentos em programação, desenvolvimento web, banco de dados e engenharia de software. Tenho bastante interesse em UX Design e em como tecnologia e design podem trabalhar juntos para criar melhores experiências para os usuários.
 
+Para um trabalho da faculdade já utilizei Inteligência Artificial como apoio na criação de rascunhos visuais de um site e de um aplicativo, como forma de visualizar e organizar ideias antes da etapa de programação, sendo de grande ajuda para eu e meu grupo desenvolvermos algo realmente funcional e prático.
 
-📚 Atualmente estudando:
+💡 Áreas de interesse em Tecnologia
 
-Algoritmos
+UX Design
 
-Linguagem C
+Desenvolvimento Web
+
+Engenharia de Software
+
+Inteligência Artificial
+
+📚 Tecnologias e conhecimentos em estudo
+
+C
 
 HTML
 
 CSS
 
+Algoritmos
+
 Banco de Dados
 
 Engenharia de Software
 
+🚀 Objetivos profissionais
 
-🎨 Interesses:
+Meu objetivo é continuar desenvolvendo minhas habilidades em tecnologia sempre, adquirir experiência por meio de projetos e, futuramente, atuar profissionalmente na área de tecnologia, especialmente em áreas relacionadas a desenvolvimento, UX Design e criação de soluções digitais.
 
-Tenho bastante interesse em UX Design e em entender como tecnologia e design podem contribuir para criar experiências melhores para os usuários. A criatividade e interesse em descobrir sempre foram presentes em mim.
+🔗 LinkedIn
 
-Também já utilizei Inteligência Artificial como apoio na criação de rascunhos visuais de um site e de um aplicativo, como uma forma de visualizar e organizar as ideias antes da etapa de programação.
-
-
-🚀 Objetivo:
-
-Estou utilizando este espaço para registrar minha evolução durante a graduação, compartilhar projetos e continuar desenvolvendo minhas habilidades em tecnologia, programação, desenvolvimento web e UX Design.
+www.linkedin.com/in/júlia-barros-a7b26b298
