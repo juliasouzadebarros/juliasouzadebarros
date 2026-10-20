@@ -49,6 +49,8 @@ Essa experiência foi de grande ajuda para o processo criativo e para que eu e m
 
 ## 💼 Experiências
 
+- Certificado em Excel Básico pela Fundação Bradesco.
+
 Atualmente, estou em processo de formação acadêmica e desenvolvimento das minhas habilidades na área de tecnologia.
 
 Também trabalho como **agente de proteção no Aeroporto Internacional de Guarulhos**.
